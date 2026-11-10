@@ -1,0 +1,6 @@
+{
+  "name": "Mutaba'ah.id - Portal Evaluasi Perilaku & Gamifikasi Karakter Siswa",
+  "description": "Platform evaluasi diri harian siswa dan siswi dengan gamifikasi karakter blok bergaya Roblox, tantangan terpisah Sholat, Mengaji, dan Hafalan, pertukaran koin aksesori, serta chat sesama siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

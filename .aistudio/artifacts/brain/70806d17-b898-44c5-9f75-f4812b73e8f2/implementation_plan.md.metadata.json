@@ -1,0 +1,6 @@
+{
+  "summary":  "Revisi rencana final dengan domain email admin @mutabaah:\n1. Akun Admin Master: Autentikasi login admin dengan email 'hariffalah75@mutabaah.id' (serta alias 'hariffalah75@gmail.com') dan kata sandi 'Ferarizky123#'.\n2. Menghapus seluruh tombol Panel Guru / Admin dari portal siswa (DashboardHeader.tsx dan halaman murid), akses masuk admin hanya melalui halaman portal login.\n3. Sesi salat harian (Senin s/d Minggu) terbuka otomatis pada jam 05:00 - 07:00 WIB untuk hari yang sama. Di luar jam tersebut atau pada hari lain, sesi dapat dibuka menggunakan sandi/PIN guru ('987654').\n4. Tombol 'Buka Kunci Akses' di kartu tantangan tidak langsung membuka salat saat dipencet, melainkan wajib memunculkan modal PIN Guru/Orang Tua.\n5. Sesi Hafalan Al-Qur'an hanya terbuka jika guru telah membuka sesi di panel guru, dan sandi '753690' dirahasiakan sepenuhnya dari tampilan murid.",
+  "updatedAt":  "2026-11-08T18:20:16.053271297Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
